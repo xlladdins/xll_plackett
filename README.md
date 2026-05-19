@@ -1,1 +1,2 @@
-# xll_plackett
+# The Bivariate Plackett Copula
+
